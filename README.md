@@ -1,46 +1,44 @@
 # Python For Everyone - Teaching Notes
 
-> Complete teaching notes for Python Crash Course - Python fundamentals for beginners
+This repository contains Jupyter notebooks that summarize the core fundamentals of **Python Crash Course** by Eric Matthes. These materials are designed for instructors who want a structured, ready-to-use resource for teaching Python basics.
 
 ---
 
-## 📖 About
+## About This Project
 
-This repository contains structured teaching notes for **Python Crash Course**, organized as Jupyter notebooks. Each chapter includes clear explanations, practical code examples, and exercises. Perfect for instructors and beginners.
+The notebooks cover only the **teaching portion** of the book (the first half) – variables, data types, lists, functions, classes, and similar topics. The project‑based sections (the second half) are not included. Students and instructors are encouraged to refer to the original book for the projects.
 
----
-
-## 📚 Chapters
-
-### Chapter 00: Introduction
-- [Why Python](00-Introduction/why-python.ipynb)
-
-### Chapter 01: Getting Started
-- [Setting Up Programming Environment](01-Getting-started/setting-up-programming-env.ipynb)
-- [Python on Different OSs](01-Getting-started/python-on-different-oss.ipynb)
-- [Hello World Program](01-Getting-started/hello-world-program.ipynb)
-- [Running Python on Terminal](01-Getting-started/running-python-on-terminal.ipynb)
-
-### Coming Soon
-- Chapter 02: Variables and Data Types
-- Chapter 03: Lists
-- Chapter 04: If Statements
-- Chapter 05: Dictionaries
-- Chapter 06: Functions
-- Chapter 07: Classes
-- Chapter 08: Files and Exceptions
+All notebooks are written in a simple, professional tone with clear explanations, practical code examples, and short exercises. They are suitable for classroom use, workshops, or self‑study.
 
 ---
 
-## 🚀 Getting Started
+## Why Python Crash Course?
 
-### Prerequisites
-- Python 3.8+
-- Jupyter Notebook or VS Code
+Python Crash Course is one of the best books for beginners because:
 
-### How to Use
+- It uses a **practical**, hands‑on approach that helps learners retain concepts.
+- Explanations are clear and easy to follow.
+- It covers everything from basic syntax to real‑world applications.
+- The second half contains three substantial projects that allow learners to apply what they have learned.
+
+This repository focuses on building a solid foundation in the language itself.
+
+---
+
+## How to Use
+
+- **Instructors**: Use the notebooks as a ready‑made lesson plan.
+- **Students**: Read the notebooks, run the code, and try the exercises.
+
 ```bash
 git clone https://github.com/yourusername/python-for-everyone-notes.git
 cd python-for-everyone-notes
-pip install jupyter
 jupyter notebook
+```
+
+
+---
+## Contributing and Contact
+Contributions are welcome. Feel free to open an issue or submit a pull request.
+(Email)[mailto:Rajabi.quant@gmail.com]
+(LinkedIn)[linkedin.com/in/itsrajabi]
