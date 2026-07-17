@@ -36,9 +36,12 @@ cd python-for-everyone-notes
 jupyter notebook
 ```
 
-
 ---
+
 ## Contributing and Contact
+
 Contributions are welcome. Feel free to open an issue or submit a pull request.
-(Email)[mailto:Rajabi.quant@gmail.com]
-(LinkedIn)[linkedin.com/in/itsrajabi]
+If you have any ideas or comments, I would be happy to hear from you.
+
+- **Email**: [Rajabi.quant@gmail.com](mailto:Rajabi.quant@gmail.com)
+- **LinkedIn**: [linkedin.com/in/itsrajabi](https://linkedin.com/in/itsrajabi)
